@@ -1,0 +1,11 @@
+id=6
+name=eno
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:gzip, deflate
+Host:192.168.1.6
+Upgrade-Insecure-Requests:1
+Accept-Language:hr-HR,hr
+Sec-GPC:1
+Connection:keep-alive
+
